@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--untuk menggunakan constrain layout -->
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondFragment">
+    <!--untuk memasukan elemen gambar -->
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="151dp"
+        android:layout_height="142dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/logoupnbaru"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <!--untuk memasukan elemen textview -->
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="54dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:gravity="center_horizontal"
+        android:text="@string/universitas_pembangunan_nasional_veteran_jawa_timur_berlokasi_di_surabaya_merupakan_salah_satu_perguruan_tinggi_negeri_di_indonesia_yang_berdiri_sejak_5_juli_1959_upn_veteran_jatim_saat_ini_dipimpin_oleh_rektor_prof_dr_ir_akhmad_fauzi_mmt_upn_veteran_jawa_timur_didirikan_oleh_para_veteran_pejuang_perang_kemerdekaan_sebagai_monumen_hidup_dalam_mengembangkan_pendidikan_di_indonesia_dalam_perkembangannya_upn_veteran_jawa_timur_telah_mengalami_beberapa_kali_perubahan_nama_dan_status"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+</androidx.constraintlayout.widget.ConstraintLayout>

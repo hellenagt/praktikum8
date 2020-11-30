@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">praktikum8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_2">Tampilan 2</string>
+    <string name="tab_text_1">Tampilan 1</string>
+    <string name="tab_text_3">Tampilan 3</string>
+    <string name="user_display_name">User Display Name</string>
+    <string name="selamat_datang">Selamat datang</string>
+    <string name="todo">TODO</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="universitas_pembangunan_nasional_veteran_jawa_timur_berlokasi_di_surabaya_merupakan_salah_satu_perguruan_tinggi_negeri_di_indonesia_yang_berdiri_sejak_5_juli_1959_upn_veteran_jatim_saat_ini_dipimpin_oleh_rektor_prof_dr_ir_akhmad_fauzi_mmt_upn_veteran_jawa_timur_didirikan_oleh_para_veteran_pejuang_perang_kemerdekaan_sebagai_monumen_hidup_dalam_mengembangkan_pendidikan_di_indonesia_dalam_perkembangannya_upn_veteran_jawa_timur_telah_mengalami_beberapa_kali_perubahan_nama_dan_status">Universitas Pembangunan Nasional \'Veteran\' Jawa Timur, berlokasi di Surabaya merupakan salah satu Perguruan Tinggi Negeri di Indonesia yang berdiri sejak 5 Juli 1959. UPN \'Veteran\' Jatim saat ini dipimpin oleh Rektor Prof. Dr. Ir. Akhmad Fauzi, MMT. UPN \'Veteran\' Jawa Timur didirikan oleh para veteran pejuang perang kemerdekaan sebagai monumen hidup dalam mengembangkan pendidikan di Indonesia. Dalam perkembangannya, UPN \'Veteran\' Jawa Timur telah mengalami beberapa kali perubahan nama dan status.</string>
+</resources>
